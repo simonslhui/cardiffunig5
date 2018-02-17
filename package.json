@@ -1,0 +1,15 @@
+{
+  "name": "location",
+  "version": "1.0.0",
+  "description": "A webhook function for dialogflow agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/simonslhui/cardiffunig5"
+  },
+  "author": "SimonH",
+  "license": "ISC"
+}
